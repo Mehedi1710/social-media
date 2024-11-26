@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# npm logs
+npm-debug.log
+
+# Yarn error log
+yarn-error.log
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+
+# Build output
+/dist
+/build
+
+# IDE files (example for VSCode)
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
